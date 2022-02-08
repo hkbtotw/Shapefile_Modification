@@ -1,0 +1,9 @@
+*.csv
+*.cpg
+*.dbf
+*.prj
+*.shp
+raw_data/
+*.xlsx
+Credential.*
+csv_join_tambon.*
